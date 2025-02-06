@@ -16,12 +16,6 @@ This project automates the **conversion of restaurant menu images** into structu
 
 ---
 
----
-## 📌 Contributing
-Feel free to **fork** this repo, **make changes**, and submit a **pull request**! 🚀  
-
----
-
 **© 2025 | AI-Powered Menu Digitization Project**  
 🚀 **Created with passion!**  
 
