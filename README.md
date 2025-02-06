@@ -130,5 +130,15 @@ df.to_excel("/content/menu_data.xlsx", index=False)
 print("✅ Excel file saved successfully!")
 
 ---
-## 🔗 Visit My Profile  
-[👉 Click here to visit my profile](https://wix.to/DRecxJI)
+---
+## 📌 Contributing
+Feel free to **fork** this repo, **make changes**, and submit a **pull request**! 🚀  
+
+---
+
+**© 2025 | AI-Powered Menu Digitization Project**  
+🚀 **Created with passion and AI!**  
+
+---
+## 🔗 [Visit My Profile](https://wix.to/DRecxJI)
+
