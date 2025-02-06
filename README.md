@@ -1,5 +1,5 @@
 # AI-Powered-Menu-Digitization
-# 🍽️ AI-Powered Menu Digitization
+# 🍽️ Menu Digitization
 🚀 **Automating restaurant menu digitization using AI to extract and structure data into Excel.**  
 
 ---
@@ -23,7 +23,7 @@ Feel free to **fork** this repo, **make changes**, and submit a **pull request**
 ---
 
 **© 2025 | AI-Powered Menu Digitization Project**  
-🚀 **Created with passion and AI!**  
+🚀 **Created with passion!**  
 
 ---
 ## 🔗 Visit My Profile  
@@ -129,12 +129,6 @@ for image in image_files:
 df.to_excel("/content/menu_data.xlsx", index=False)
 print("✅ Excel file saved successfully!")
 
----
----
-## 📌 Contributing
-Feel free to **fork** this repo, **make changes**, and submit a **pull request**! 🚀  
-
----
 
 **© 2025 | AI-Powered Menu Digitization Project**  
 🚀 **Created with passion**  
