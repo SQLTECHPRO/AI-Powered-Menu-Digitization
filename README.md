@@ -119,3 +119,6 @@ for image in image_files:
 df.to_excel("/content/menu_data.xlsx", index=False)
 print("✅ Excel file saved successfully!")
 
+---
+## 🔗 Visit My Profile  
+[👉 Click here to visit my profile](https://wix.to/DRecxJI)
