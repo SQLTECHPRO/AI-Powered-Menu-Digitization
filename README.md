@@ -139,7 +139,6 @@ Feel free to **fork** this repo, **make changes**, and submit a **pull request**
 **© 2025 | AI-Powered Menu Digitization Project**  
 🚀 **Created with passion**  
 
----
-## 🔗 Visit My Profile  
-<a href="https://wix.to/DRecxJI" target="_blank">Visit My Profile</a>
+
+
 
